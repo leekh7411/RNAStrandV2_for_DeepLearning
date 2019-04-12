@@ -1,0 +1,28 @@
+# File NDB_00015.ct
+# RNA SSTRAND database
+# External source: Nucleic Acid Database bdl018, number of molecules: 2
+# The secondary structure annotation was obtained with RNAview
+1 A 23
+2 C 22
+3 C 0
+4 G 21
+5 G 20
+6 C 19
+7 G 18
+8 C 16
+9 C 15
+10 A 14
+11 C 13
+12 A 0
+13 T 11
+14 G 10
+15 T 9
+16 G 8
+17 G 0
+18 C 7
+19 G 6
+20 C 5
+21 C 4
+22 G 2
+23 G 1
+24 T 0

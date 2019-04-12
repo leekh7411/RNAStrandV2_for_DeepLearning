@@ -1,0 +1,16 @@
+# File NDB_00028.ct
+# RNA SSTRAND database
+# External source: Nucleic Acid Database ddf032, number of molecules: 2
+# The secondary structure annotation was obtained with RNAview
+1 T 12
+2 G 11
+3 A 10
+4 T 9
+5 C 8
+6 A 7
+7 T 6
+8 G 5
+9 A 4
+10 T 3
+11 C 2
+12 A 1

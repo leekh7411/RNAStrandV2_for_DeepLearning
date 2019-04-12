@@ -1,0 +1,36 @@
+# File PDB_00809.ct
+# RNA SSTRAND database
+# External source: RCSB Protein Data Bank 1XHP, number of molecules: 1
+# The secondary structure annotation was obtained with RNAview
+1 G 32
+2 A 31
+3 G 30
+4 C 29
+5 A 28
+6 G 27
+7 U 26
+8 U 25
+9 C 24
+10 C 22
+11 C 21
+12 C 20
+13 U 19
+14 G 18
+15 C 0
+16 A 0
+17 U 0
+18 A 14
+19 A 13
+20 G 12
+21 G 11
+22 A 10
+23 U 0
+24 G 9
+25 A 8
+26 A 7
+27 C 6
+28 C 5
+29 G 4
+30 U 3
+31 U 2
+32 C 1

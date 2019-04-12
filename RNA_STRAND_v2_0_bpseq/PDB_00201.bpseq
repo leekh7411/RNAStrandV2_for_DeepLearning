@@ -1,0 +1,30 @@
+# File PDB_00201.ct
+# RNA SSTRAND database
+# External source: RCSB Protein Data Bank 1QWB, number of molecules: 1
+# The secondary structure annotation was obtained with RNAview
+1 G 26
+2 G 25
+3 A 24
+4 C 23
+5 A 22
+6 C 21
+7 G 20
+8 A 19
+9 A 17
+10 A 16
+11 U 0
+12 C 0
+13 C 0
+14 C 0
+15 G 0
+16 A 10
+17 A 9
+18 G 0
+19 U 8
+20 A 7
+21 G 6
+22 U 5
+23 G 4
+24 U 3
+25 C 2
+26 C 1

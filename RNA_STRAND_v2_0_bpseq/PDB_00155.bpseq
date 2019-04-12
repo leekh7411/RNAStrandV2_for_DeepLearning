@@ -1,0 +1,30 @@
+# File PDB_00155.ct
+# RNA SSTRAND database
+# External source: RCSB Protein Data Bank 1MHK, number of molecules: 2
+# The secondary structure annotation was obtained with RNAview
+1 C 26
+2 C 25
+3 A 24
+4 U 23
+5 G 22
+6 C 21
+7 G 20
+8 A 19
+9 A 0
+10 C 0
+11 C 0
+12 G 0
+13 C 0
+14 G 0
+15 A 0
+16 U 0
+17 C 0
+18 C 0
+19 U 8
+20 A 7
+21 G 6
+22 U 5
+23 G 4
+24 U 3
+25 G 2
+26 G 1

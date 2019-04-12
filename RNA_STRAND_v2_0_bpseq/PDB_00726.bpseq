@@ -1,0 +1,31 @@
+# File PDB_00726.ct
+# RNA SSTRAND database
+# External source: RCSB Protein Data Bank 1T0K, number of molecules: 2
+# The secondary structure annotation was obtained with RNAview
+1 G 27
+2 A 26
+3 C 25
+4 C 24
+5 G 0
+6 G 0
+7 A 0
+8 G 17
+9 U 16
+10 G 15
+11 U 14
+12 C 13
+13 G 12
+14 A 11
+15 C 10
+16 G 9
+17 C 8
+18 A 0
+19 G 0
+20 A 0
+21 G 0
+22 A 0
+23 U 0
+24 G 4
+25 G 3
+26 U 2
+27 C 1

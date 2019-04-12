@@ -1,0 +1,23 @@
+# File PDB_00866.ct
+# RNA SSTRAND database
+# External source: RCSB Protein Data Bank 1YTU, number of molecules: 4
+# The secondary structure annotation was obtained with RNAview
+1 A 0
+2 G 9
+3 A 8
+4 C 7
+5 A 0
+6 U 0
+7 G 4
+8 U 3
+9 C 2
+10 A 0
+11 G 19
+12 A 18
+13 C 17
+14 A 16
+15 G 0
+16 U 14
+17 G 13
+18 U 12
+19 C 11

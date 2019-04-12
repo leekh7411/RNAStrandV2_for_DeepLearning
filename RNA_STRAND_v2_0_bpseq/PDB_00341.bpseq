@@ -1,0 +1,42 @@
+# File PDB_00341.ct
+# RNA SSTRAND database
+# External source: RCSB Protein Data Bank 1DFU, number of molecules: 2
+# The secondary structure annotation was obtained with RNAview
+1 C 37
+2 C 36
+3 C 35
+4 A 34
+5 U 33
+6 G 32
+7 C 31
+8 G 30
+9 A 29
+10 G 28
+11 A 27
+12 G 26
+13 U 25
+14 A 24
+15 G 23
+16 G 22
+17 G 0
+18 A 0
+19 C 0
+20 U 0
+21 G 0
+22 C 16
+23 C 15
+24 G 14
+25 A 13
+26 U 12
+27 G 11
+28 G 10
+29 U 9
+30 A 8
+31 G 7
+32 U 6
+33 G 5
+34 U 4
+35 G 3
+36 G 2
+37 G 1
+38 G 0

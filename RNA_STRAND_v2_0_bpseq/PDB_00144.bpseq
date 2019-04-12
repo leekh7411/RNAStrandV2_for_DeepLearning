@@ -1,0 +1,28 @@
+# File PDB_00144.ct
+# RNA SSTRAND database
+# External source: RCSB Protein Data Bank 1LNT, number of molecules: 2
+# The secondary structure annotation was obtained with RNAview
+1 G 24
+2 C 23
+3 G 22
+4 U 21
+5 C 20
+6 A 0
+7 G 18
+8 G 17
+9 U 16
+10 C 15
+11 c 14
+12 G 13
+13 C 12
+14 G 11
+15 G 10
+16 A 9
+17 A 8
+18 G 7
+19 C 0
+20 A 5
+21 G 4
+22 c 3
+23 G 2
+24 C 1
